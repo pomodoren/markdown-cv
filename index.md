@@ -11,6 +11,7 @@ Computer engineer, interested in open data and open-source tools for neuroscienc
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
 <!--| <a href="https://pomodoren.github.io">website</a>-->
 | <a href="https://github.com/pomodoren">github</a>
+| <a href="https://www.linkedin.com/in/pomodoren">linkedin</a>
 </div>
 
 ## Experience
