@@ -5,7 +5,7 @@ title: Doren Çalliku's CV
 
 ## Doren Çalliku
 
-Computer engineer, interested in open data and open-source tools for neuroscience, geospatial, and AI. _Last updated: 02/25._
+Computer engineer, interested in open data and open-source tools for neuroscience, geospatial, and explainable AI. _Last updated: 02/25._
 
 <div id="webaddress">
 <a href="mailto:dcalliku@gmail.com">e-mail</a>
