@@ -65,12 +65,7 @@ __B.Sc. Computer Engineering__
 - __Data Science__: Erasmus+ at the Royal Institute of Technology (Sweden).
 - Focus on algorithms and computer science.
 - Voluntary work @TDP, helping in education, poverty, and refugee issues.
-
-### Certifications
-
-- __Specializations__: Neuroscience and Neuroimaging, IBM AI Engineering (ongoing).
-- __Courses__: AI for Medical Diagnosis, Psychological First Aid, Neuromarketing.
-
+  
 ## Skills
 
 - __ML+__: Keras, TF, Pytorch (used), shap (experienced)
