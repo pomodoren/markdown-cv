@@ -19,14 +19,14 @@ Computer engineer, interested in open data and open-source tools for neuroscienc
 ### Professional
 
 `12/24-Present`
-__Computer Scientist for Risk Management__, @<ins>[Helmholtz Centre for Geosciences](https://www.gfz.de/en/)</ins>
+__Computer Scientist for Risk Management__, @<ins>[GFZ Germany](https://www.gfz.de/en/)</ins>
 
 - Setting up scalable infrastructure for exposure to earthquakes.
 - Contributing to standardization of risk in open data. 
 - Contributing to exposure-profilization of countries. 
 
 `02/23-12/24`
-__Advisor on Sustainable Mobility__, @<ins>[German Agency for Int. Cooperation](https://www.giz.de/en/html/index.html)</ins>
+__Advisor on Sustainable Mobility__, @<ins>[GIZ Albania](https://www.giz.de/en/html/index.html)</ins>
 
 - Digitalizing Tirana's public transport, supporting institutions with policies.
 - Orienting policy-making on mobility towards open-data and open-source tools.
